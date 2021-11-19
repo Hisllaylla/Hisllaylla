@@ -11,11 +11,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisllaylla&layout=compact&langs_count=16&theme=jolly"/>
   </p>
 </div>  
-
-  ##
- 
-<div> 
-  
-  ![Snake animation](https://github.com/Hisllaylla/Hisllaylla/blob/output/.github-contribution-grid-snake.svg)
- 
-</div>
