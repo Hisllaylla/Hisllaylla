@@ -14,6 +14,6 @@
   ##
  
 <div> 
-  ![Snake animation(https://github.com/Hisllaylla/Hisllaylla/blob/main/.github.yml/workflows/cobrinha.yml)
+  ![Snake animation(https://github.com/Hisllaylla/Hisllaylla/blob/output/.github-contribution-grid-snake.svg)
  
 </div>
