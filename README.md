@@ -1,6 +1,6 @@
 # Oi, eu sou a Hisllaylla!  🖖
 * 🎓 Estou cursando o 3º módulo do técnico de **Desenvolvimento de Sistemas** na ETEC Juscelino Kubistschek;
-* 💻 No momento, aprendendo: **C# (.NET/Xamarin)**, **PHP**, **MySQL** e **Flutter**;
+* 💻 No momento, aprendendo: **PHP**, **MySQL** e **Flutter**;
 * 🌐 Este perfil atualmente está destinado a aprendizagem, além de vitrine para futuros trabalhos.
 >_"A lógica é o princípio da sabedoria, não o fim"_ - Star Trek.
 #
