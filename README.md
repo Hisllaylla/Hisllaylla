@@ -11,4 +11,4 @@
   </p>
 </div>  
 #
-![Snake animation](https://github.com/Hisllaylla/Hisllaylla/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Hisllaylla/Hisllaylla/blob/output/github-contribution-grid-snake.svg)
