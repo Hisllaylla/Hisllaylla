@@ -59,5 +59,5 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <h1 align="center">🟣 Entre em contato 🟣</h1>
   <p align="center"><a heref="https://twitter.com/chaveprimaria" alt="twitter: @chaveprimaria"><img height="80" src="https://cdn-icons-png.flaticon.com/512/2525/2525779.png"/>
   <a href="https://www.linkedin.com/in/hisllaylla/" alt="Linkedin: Hisllaylla Kézia"> <img height="80" src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png"/>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="email: hisllayllak@gmail.com"> <img height="80" src="https://cdn-icons-png.flaticon.com/512/2040/2040539.png"/>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="email: hisllayllak@gmail.com"> <img height="80" src="https://cdn-icons-png.flaticon.com/512/2040/2040539.png"/></p>
 </div>
