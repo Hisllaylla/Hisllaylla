@@ -26,8 +26,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
   <details>
     <summary><b>Artigos, dicas e um pouco sobre mim:</b></summary>
     <ul>
-      <li><a href="https://twitter.com/chaveprimaria" target="_blank">Twitter</a></li>
-      <li><a href="https://dev.to/hisllaylla" target="_blank">Dev.to</a></li>
+      <p><a href="https://twitter.com/chaveprimaria" target="_blank">Twitter</a></p>
+      <p><a href="https://dev.to/hisllaylla" target="_blank">Dev.to</a>.</p>
     </ul>
     <br>
   </details>
