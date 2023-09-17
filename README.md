@@ -4,7 +4,7 @@
     </div>
 
 <div>
-    <h1>👾. . .with great power, comes great responsibility. . .</h1>
+    <h1 text-align="right">👾. . .with great power, comes great responsibility. . .</h1>
     <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
@@ -13,7 +13,9 @@
     </p>
 </div>
 
-<div>    
-    <a href="https://github.com/Hisllaylla"><img align="right" height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hisllaylla&theme=jolly&include_border=true"/>
-    </a>
+<div>  
+    <p>  
+        <a href="https://github.com/Hisllaylla"><img align="right" height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hisllaylla&theme=jolly&include_border=true"/>
+        </a>
+    </p>
 <div>
